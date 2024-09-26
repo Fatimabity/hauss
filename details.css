@@ -74,14 +74,112 @@ nav a:hover {
     color: #356F37;
     background-color: #ffffff;
 }
+
 /*style du main*/
 /*section1*/
+.sect1 h1 {
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 70px;
+}
 
+.rect1 {
+    margin-top: 90px;
+    margin-left: 520px;
+    width: 100px;
+    height: 100px;
 
+}
 
+.rect2 {
+    margin-top: 40px;
+    width: 100px;
+    height: 100px;
+    margin-left: -35px;
 
+}
 
+.container {
+    height: 160px;
+    background: #356F37;
+    margin-left: 70px;
+    margin-top: 63px;
+}
 
+.container h1 {
+    padding-left: 660px;
+    width: 488px;
+    height: 120px;
+    color: #FFFFFF;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+}
+
+.container img {
+    margin-top: -210px;
+    margin-left: 40px;
+}
+
+.container p {
+    width: 488px;
+    height: 63px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.13px;
+    text-align: left;
+    color: #555555;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+.mini-icon {
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+.mini-icon span {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.13px;
+    text-align: left;
+    color: #555555;
+    margin-left: 20px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin-top: 500px;
+}
+
+.mini-icon button {
+    width: 282px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #EB9655;
+border: none;
+margin-top: 40px;
+margin-left: 30px;
+}
+.rectangle1{
+    margin-top: 555px;
+    margin-left: 110px;
+}
+.rectangle2{
+    margin-left: -45px;
+    margin-top: -30px;
+}
 /*section2*/
 .content2 {
     width: 1120px;
